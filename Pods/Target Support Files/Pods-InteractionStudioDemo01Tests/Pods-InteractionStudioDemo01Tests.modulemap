@@ -1,0 +1,6 @@
+framework module Pods_InteractionStudioDemo01Tests {
+  umbrella header "Pods-InteractionStudioDemo01Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

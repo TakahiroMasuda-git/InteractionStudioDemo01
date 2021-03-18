@@ -1,0 +1,878 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		B92C1FD896F674558E7FEC2759B5586F /* Evergage */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 54087DD5B7908496413D35FCB6138829 /* Build configuration list for PBXAggregateTarget "Evergage" */;
+			buildPhases = (
+			);
+			dependencies = (
+			);
+			name = Evergage;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		0E5C247000D7E6FD1A1C28141F831D3A /* Pods-InteractionStudioDemo01-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1901AA2383583F5C3396184053F68D66 /* Pods-InteractionStudioDemo01-dummy.m */; };
+		2E9597F44F6E208F14C2BAC59A98C4EA /* Pods-InteractionStudioDemo01Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1955AFA12C8F4989F08FFA79BAF3C0B1 /* Pods-InteractionStudioDemo01Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3EB822449087A02E643939971E813C07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		7ABC41D041254223FC920D426FFA9FCA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		830BE45BD6652F8259CE0D5B8EC07618 /* Pods-InteractionStudioDemo01Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E072354C01BD2ED64A705A588DD92A0F /* Pods-InteractionStudioDemo01Tests-dummy.m */; };
+		8F64840ADC060EF3000CC444681BCE97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		9C4B744D6D21B083704AD4724D552DD3 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A277029D652C1B350A326C2A58C7EB0 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9E91B4CEA2AD3A990F4D9DA45DB016B8 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7861CE01377E8728A56A49A0D4F1C986 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-dummy.m */; };
+		F26F25CB7AD94B1E44BA387A80880033 /* Pods-InteractionStudioDemo01-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B803A2F7CB25DD80C3A22E157118F69 /* Pods-InteractionStudioDemo01-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		73F2472272059D28862C75206E1D02AA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B92C1FD896F674558E7FEC2759B5586F;
+			remoteInfo = Evergage;
+		};
+		843AFE21C02158CEB26F40CA461CE07D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B92C1FD896F674558E7FEC2759B5586F;
+			remoteInfo = Evergage;
+		};
+		A3DFB34DD472767AA09C63A7EEDDEC62 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3EC987F1DD56CAE6B4E3353E1767E9DB;
+			remoteInfo = "Pods-InteractionStudioDemo01";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0B803A2F7CB25DD80C3A22E157118F69 /* Pods-InteractionStudioDemo01-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-InteractionStudioDemo01-umbrella.h"; sourceTree = "<group>"; };
+		0DD206F6E58FBA37C61C7284FFF8F0AE /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.release.xcconfig"; sourceTree = "<group>"; };
+		0E89A7A7E167B65614D16B9B4E750382 /* Evergage.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Evergage.release.xcconfig; sourceTree = "<group>"; };
+		0EF0109E617CCE6ED79C8AA4FBDE6499 /* Pods-InteractionStudioDemo01-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-InteractionStudioDemo01-acknowledgements.markdown"; sourceTree = "<group>"; };
+		100382198F5EF13206F92A6EE4A1370E /* Pods-InteractionStudioDemo01Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-InteractionStudioDemo01Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		1901AA2383583F5C3396184053F68D66 /* Pods-InteractionStudioDemo01-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-InteractionStudioDemo01-dummy.m"; sourceTree = "<group>"; };
+		1955AFA12C8F4989F08FFA79BAF3C0B1 /* Pods-InteractionStudioDemo01Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-InteractionStudioDemo01Tests-umbrella.h"; sourceTree = "<group>"; };
+		1A8B9FB5E38BF879CB5135E06EE76489 /* Pods-InteractionStudioDemo01Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-InteractionStudioDemo01Tests.release.xcconfig"; sourceTree = "<group>"; };
+		29FB9B446633DAE10A42D0D8D7E5B7C8 /* Pods-InteractionStudioDemo01Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-InteractionStudioDemo01Tests.modulemap"; sourceTree = "<group>"; };
+		3B0948FF953FDBB8A149A3A91941A124 /* Pods_InteractionStudioDemo01Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_InteractionStudioDemo01Tests.framework; path = "Pods-InteractionStudioDemo01Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F39B3CFBF3388594840CAA65A2AB163 /* Evergage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Evergage.framework; sourceTree = "<group>"; };
+		51BAD9371AB1463F33EBC4DEE62CC9CC /* Pods-InteractionStudioDemo01-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InteractionStudioDemo01-acknowledgements.plist"; sourceTree = "<group>"; };
+		5E1C0B050F677D6910D5DA5313E59CE0 /* Pods_InteractionStudioDemo01.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_InteractionStudioDemo01.framework; path = "Pods-InteractionStudioDemo01.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CCFAC38DE59BEDE6F8B4F1A4110CE0B /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		75803576FDF3427B49BF1D14FA4700AC /* Pods-InteractionStudioDemo01Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InteractionStudioDemo01Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		7861CE01377E8728A56A49A0D4F1C986 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-dummy.m"; sourceTree = "<group>"; };
+		847DC415C37DA0A44F1B212F740396CA /* Pods-InteractionStudioDemo01Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-InteractionStudioDemo01Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		891803F6F96BC77E81DDBC7D43ABED0B /* Evergage.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Evergage.debug.xcconfig; sourceTree = "<group>"; };
+		9553F943FF0CC69ED330A29E55803DF4 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		9A277029D652C1B350A326C2A58C7EB0 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-umbrella.h"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9FD9C362AB6F35D27A24AA5126D2041E /* Pods_InteractionStudioDemo01_InteractionStudioDemo01UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_InteractionStudioDemo01_InteractionStudioDemo01UITests.framework; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A86EBBC2B82804C6DF05309331F37C99 /* Pods-InteractionStudioDemo01Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InteractionStudioDemo01Tests-Info.plist"; sourceTree = "<group>"; };
+		C30E8903209FDA9B81F36CE09AB58984 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-Info.plist"; sourceTree = "<group>"; };
+		C6F4E77239822B5B1A2B41B020635C1B /* Pods-InteractionStudioDemo01.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-InteractionStudioDemo01.debug.xcconfig"; sourceTree = "<group>"; };
+		D0945857D8B8D8B591980EF72A4F6ED1 /* Pods-InteractionStudioDemo01-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-InteractionStudioDemo01-Info.plist"; sourceTree = "<group>"; };
+		E072354C01BD2ED64A705A588DD92A0F /* Pods-InteractionStudioDemo01Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-InteractionStudioDemo01Tests-dummy.m"; sourceTree = "<group>"; };
+		E608C1E73A8E93EDFEACEF0F78C23C41 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		F3413091ECFC2FA9BD2C5498A279A607 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.modulemap"; sourceTree = "<group>"; };
+		F7EAC622D6F7D37D7D826B8FA844EB91 /* Pods-InteractionStudioDemo01.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-InteractionStudioDemo01.modulemap"; sourceTree = "<group>"; };
+		FFDCF53F3345650C14B52B01207CC222 /* Pods-InteractionStudioDemo01.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-InteractionStudioDemo01.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		574063FD3AAC713B9DC77CA3B31EA252 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F64840ADC060EF3000CC444681BCE97 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		920D95E1BF41673E08344F6C322CD620 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3EB822449087A02E643939971E813C07 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D83AFC59C1B9341D95B995E94F0EF76F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7ABC41D041254223FC920D426FFA9FCA /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A99330441B98E098084263FF851449D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				891803F6F96BC77E81DDBC7D43ABED0B /* Evergage.debug.xcconfig */,
+				0E89A7A7E167B65614D16B9B4E750382 /* Evergage.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Evergage";
+			sourceTree = "<group>";
+		};
+		22046535A39F55314A9D6E2CF8A031B8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5E1C0B050F677D6910D5DA5313E59CE0 /* Pods_InteractionStudioDemo01.framework */,
+				9FD9C362AB6F35D27A24AA5126D2041E /* Pods_InteractionStudioDemo01_InteractionStudioDemo01UITests.framework */,
+				3B0948FF953FDBB8A149A3A91941A124 /* Pods_InteractionStudioDemo01Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		407146D91522BC5E378D539B62F4EDC3 /* Pods-InteractionStudioDemo01 */ = {
+			isa = PBXGroup;
+			children = (
+				F7EAC622D6F7D37D7D826B8FA844EB91 /* Pods-InteractionStudioDemo01.modulemap */,
+				0EF0109E617CCE6ED79C8AA4FBDE6499 /* Pods-InteractionStudioDemo01-acknowledgements.markdown */,
+				51BAD9371AB1463F33EBC4DEE62CC9CC /* Pods-InteractionStudioDemo01-acknowledgements.plist */,
+				1901AA2383583F5C3396184053F68D66 /* Pods-InteractionStudioDemo01-dummy.m */,
+				D0945857D8B8D8B591980EF72A4F6ED1 /* Pods-InteractionStudioDemo01-Info.plist */,
+				0B803A2F7CB25DD80C3A22E157118F69 /* Pods-InteractionStudioDemo01-umbrella.h */,
+				C6F4E77239822B5B1A2B41B020635C1B /* Pods-InteractionStudioDemo01.debug.xcconfig */,
+				FFDCF53F3345650C14B52B01207CC222 /* Pods-InteractionStudioDemo01.release.xcconfig */,
+			);
+			name = "Pods-InteractionStudioDemo01";
+			path = "Target Support Files/Pods-InteractionStudioDemo01";
+			sourceTree = "<group>";
+		};
+		56308DD4B61BF7E61B9E8E9DB4223F87 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3F39B3CFBF3388594840CAA65A2AB163 /* Evergage.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		6DCBB5F6AE1CF0EDFA880644C7AA72F8 /* Evergage */ = {
+			isa = PBXGroup;
+			children = (
+				56308DD4B61BF7E61B9E8E9DB4223F87 /* Frameworks */,
+				0A99330441B98E098084263FF851449D /* Support Files */,
+			);
+			name = Evergage;
+			path = Evergage;
+			sourceTree = "<group>";
+		};
+		81CD952E13AFB0D78E203A75D9B1972E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6DCBB5F6AE1CF0EDFA880644C7AA72F8 /* Evergage */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A764A656C82D59010107E629ACA9FB90 /* Pods-InteractionStudioDemo01Tests */ = {
+			isa = PBXGroup;
+			children = (
+				29FB9B446633DAE10A42D0D8D7E5B7C8 /* Pods-InteractionStudioDemo01Tests.modulemap */,
+				100382198F5EF13206F92A6EE4A1370E /* Pods-InteractionStudioDemo01Tests-acknowledgements.markdown */,
+				75803576FDF3427B49BF1D14FA4700AC /* Pods-InteractionStudioDemo01Tests-acknowledgements.plist */,
+				E072354C01BD2ED64A705A588DD92A0F /* Pods-InteractionStudioDemo01Tests-dummy.m */,
+				A86EBBC2B82804C6DF05309331F37C99 /* Pods-InteractionStudioDemo01Tests-Info.plist */,
+				1955AFA12C8F4989F08FFA79BAF3C0B1 /* Pods-InteractionStudioDemo01Tests-umbrella.h */,
+				847DC415C37DA0A44F1B212F740396CA /* Pods-InteractionStudioDemo01Tests.debug.xcconfig */,
+				1A8B9FB5E38BF879CB5135E06EE76489 /* Pods-InteractionStudioDemo01Tests.release.xcconfig */,
+			);
+			name = "Pods-InteractionStudioDemo01Tests";
+			path = "Target Support Files/Pods-InteractionStudioDemo01Tests";
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				81CD952E13AFB0D78E203A75D9B1972E /* Pods */,
+				22046535A39F55314A9D6E2CF8A031B8 /* Products */,
+				D42E72E2809FF6B1EBC88F71A3F71F92 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D42E72E2809FF6B1EBC88F71A3F71F92 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				407146D91522BC5E378D539B62F4EDC3 /* Pods-InteractionStudioDemo01 */,
+				E4A7EB8281C26B456D84028CE4065364 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests */,
+				A764A656C82D59010107E629ACA9FB90 /* Pods-InteractionStudioDemo01Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		E4A7EB8281C26B456D84028CE4065364 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests */ = {
+			isa = PBXGroup;
+			children = (
+				F3413091ECFC2FA9BD2C5498A279A607 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.modulemap */,
+				6CCFAC38DE59BEDE6F8B4F1A4110CE0B /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-acknowledgements.markdown */,
+				9553F943FF0CC69ED330A29E55803DF4 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-acknowledgements.plist */,
+				7861CE01377E8728A56A49A0D4F1C986 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-dummy.m */,
+				C30E8903209FDA9B81F36CE09AB58984 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-Info.plist */,
+				9A277029D652C1B350A326C2A58C7EB0 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-umbrella.h */,
+				E608C1E73A8E93EDFEACEF0F78C23C41 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.debug.xcconfig */,
+				0DD206F6E58FBA37C61C7284FFF8F0AE /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.release.xcconfig */,
+			);
+			name = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests";
+			path = "Target Support Files/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		3D786D05759180273237F6DCC9C51D3C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E9597F44F6E208F14C2BAC59A98C4EA /* Pods-InteractionStudioDemo01Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7D66EC08AF06462DBE56F99BF1177714 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C4B744D6D21B083704AD4724D552DD3 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6030B18EDCB658144A9B286BC5A7C08 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F26F25CB7AD94B1E44BA387A80880033 /* Pods-InteractionStudioDemo01-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		3EC987F1DD56CAE6B4E3353E1767E9DB /* Pods-InteractionStudioDemo01 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E97C6AFC533199ABA4D08BF81CDD4BB /* Build configuration list for PBXNativeTarget "Pods-InteractionStudioDemo01" */;
+			buildPhases = (
+				D6030B18EDCB658144A9B286BC5A7C08 /* Headers */,
+				8ADC2C8BABD99F1787293919DB68F315 /* Sources */,
+				D83AFC59C1B9341D95B995E94F0EF76F /* Frameworks */,
+				418B9502D7E22E984321BE64D56450AB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7D73177C68DFB718227335AFBFF764D6 /* PBXTargetDependency */,
+			);
+			name = "Pods-InteractionStudioDemo01";
+			productName = "Pods-InteractionStudioDemo01";
+			productReference = 5E1C0B050F677D6910D5DA5313E59CE0 /* Pods_InteractionStudioDemo01.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		50193DB26714EB434D4744F88B050374 /* Pods-InteractionStudioDemo01Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FE2554F795ECA7402A050B9C00C4C7B0 /* Build configuration list for PBXNativeTarget "Pods-InteractionStudioDemo01Tests" */;
+			buildPhases = (
+				3D786D05759180273237F6DCC9C51D3C /* Headers */,
+				EA97573A0EF15479E3AE415B52099F27 /* Sources */,
+				574063FD3AAC713B9DC77CA3B31EA252 /* Frameworks */,
+				FEBE843E43E952E009B57ECC04B42522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B5511A29EDB7F0D3C24DD369B256E961 /* PBXTargetDependency */,
+			);
+			name = "Pods-InteractionStudioDemo01Tests";
+			productName = "Pods-InteractionStudioDemo01Tests";
+			productReference = 3B0948FF953FDBB8A149A3A91941A124 /* Pods_InteractionStudioDemo01Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		84BAD80DFA8FE7879453D53BC6ABA8C0 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0510FD3B92A4C6F46239F61400F2B93B /* Build configuration list for PBXNativeTarget "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests" */;
+			buildPhases = (
+				7D66EC08AF06462DBE56F99BF1177714 /* Headers */,
+				D4464CCD2AF07D0CB759CE20342889FE /* Sources */,
+				920D95E1BF41673E08344F6C322CD620 /* Frameworks */,
+				1D0E1BBCA40EA537DE07D41638C54CEE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A8CC0F19471AA1E431A64C16B068A621 /* PBXTargetDependency */,
+			);
+			name = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests";
+			productName = "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests";
+			productReference = 9FD9C362AB6F35D27A24AA5126D2041E /* Pods_InteractionStudioDemo01_InteractionStudioDemo01UITests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = 22046535A39F55314A9D6E2CF8A031B8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B92C1FD896F674558E7FEC2759B5586F /* Evergage */,
+				3EC987F1DD56CAE6B4E3353E1767E9DB /* Pods-InteractionStudioDemo01 */,
+				84BAD80DFA8FE7879453D53BC6ABA8C0 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests */,
+				50193DB26714EB434D4744F88B050374 /* Pods-InteractionStudioDemo01Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D0E1BBCA40EA537DE07D41638C54CEE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		418B9502D7E22E984321BE64D56450AB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FEBE843E43E952E009B57ECC04B42522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8ADC2C8BABD99F1787293919DB68F315 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0E5C247000D7E6FD1A1C28141F831D3A /* Pods-InteractionStudioDemo01-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4464CCD2AF07D0CB759CE20342889FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E91B4CEA2AD3A990F4D9DA45DB016B8 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA97573A0EF15479E3AE415B52099F27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				830BE45BD6652F8259CE0D5B8EC07618 /* Pods-InteractionStudioDemo01Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7D73177C68DFB718227335AFBFF764D6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Evergage;
+			target = B92C1FD896F674558E7FEC2759B5586F /* Evergage */;
+			targetProxy = 73F2472272059D28862C75206E1D02AA /* PBXContainerItemProxy */;
+		};
+		A8CC0F19471AA1E431A64C16B068A621 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Evergage;
+			target = B92C1FD896F674558E7FEC2759B5586F /* Evergage */;
+			targetProxy = 843AFE21C02158CEB26F40CA461CE07D /* PBXContainerItemProxy */;
+		};
+		B5511A29EDB7F0D3C24DD369B256E961 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-InteractionStudioDemo01";
+			target = 3EC987F1DD56CAE6B4E3353E1767E9DB /* Pods-InteractionStudioDemo01 */;
+			targetProxy = A3DFB34DD472767AA09C63A7EEDDEC62 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		140E0D2A4C5DE42A96C569A9F33C9391 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C6F4E77239822B5B1A2B41B020635C1B /* Pods-InteractionStudioDemo01.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-InteractionStudioDemo01/Pods-InteractionStudioDemo01-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-InteractionStudioDemo01/Pods-InteractionStudioDemo01.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		23A7848FA4B2ABBF1A2104DFC9FE6871 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E608C1E73A8E93EDFEACEF0F78C23C41 /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		25A4A628322DB03249F55322F10A9A82 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A8B9FB5E38BF879CB5135E06EE76489 /* Pods-InteractionStudioDemo01Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-InteractionStudioDemo01Tests/Pods-InteractionStudioDemo01Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-InteractionStudioDemo01Tests/Pods-InteractionStudioDemo01Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		48D9BEC6952EC6DAE8993F93442E9441 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0DD206F6E58FBA37C61C7284FFF8F0AE /* Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests/Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A445D08D964FE9C6C05CEE2B0A948973 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		BB55AF0302F5386A68FB97F61D505246 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 891803F6F96BC77E81DDBC7D43ABED0B /* Evergage.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D9DD5C9B19CE9EE4090770684B34F39E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FFDCF53F3345650C14B52B01207CC222 /* Pods-InteractionStudioDemo01.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-InteractionStudioDemo01/Pods-InteractionStudioDemo01-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-InteractionStudioDemo01/Pods-InteractionStudioDemo01.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E03395F78D29D6C9A172ADDADA8777FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E89A7A7E167B65614D16B9B4E750382 /* Evergage.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EB7376794D773187B6D048F04E70CE39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		FBD3112C320E507CA2574E72413D3525 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 847DC415C37DA0A44F1B212F740396CA /* Pods-InteractionStudioDemo01Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-InteractionStudioDemo01Tests/Pods-InteractionStudioDemo01Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-InteractionStudioDemo01Tests/Pods-InteractionStudioDemo01Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0510FD3B92A4C6F46239F61400F2B93B /* Build configuration list for PBXNativeTarget "Pods-InteractionStudioDemo01-InteractionStudioDemo01UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23A7848FA4B2ABBF1A2104DFC9FE6871 /* Debug */,
+				48D9BEC6952EC6DAE8993F93442E9441 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB7376794D773187B6D048F04E70CE39 /* Debug */,
+				A445D08D964FE9C6C05CEE2B0A948973 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E97C6AFC533199ABA4D08BF81CDD4BB /* Build configuration list for PBXNativeTarget "Pods-InteractionStudioDemo01" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				140E0D2A4C5DE42A96C569A9F33C9391 /* Debug */,
+				D9DD5C9B19CE9EE4090770684B34F39E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		54087DD5B7908496413D35FCB6138829 /* Build configuration list for PBXAggregateTarget "Evergage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BB55AF0302F5386A68FB97F61D505246 /* Debug */,
+				E03395F78D29D6C9A172ADDADA8777FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FE2554F795ECA7402A050B9C00C4C7B0 /* Build configuration list for PBXNativeTarget "Pods-InteractionStudioDemo01Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FBD3112C320E507CA2574E72413D3525 /* Debug */,
+				25A4A628322DB03249F55322F10A9A82 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}
